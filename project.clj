@@ -1,4 +1,4 @@
-(defproject speclj.shoulds.matrix "0.1.1-SNAPSHOT"
+(defproject speclj.shoulds.matrix "0.1.1"
   :description "Custom should(s) for clojure.core.matrix comparisons."
   :url "https://github.com/RyanMcG/speclj.shoulds.matrix"
   :license {:name "The MIT License"
